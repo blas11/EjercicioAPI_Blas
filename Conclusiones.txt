@@ -1,3 +1,3 @@
-En este ejercicio se utilizó Screenplay como patrón de diseño para el desarrollo de las pruebas, usé gherkin para el manejo de caso y gradle para el manejo de dependencias.
-Los únicos inconvenientes que se presentaron fue la inestabilidad de la página
-Personalmente, siento que Screenplay es un patrón de diseño fácil de aprender y que nos da mucha posibilidad de reutilizar código. 
+En este ejercicio se usó Karate.
+Karate me parece una forma muy sencilla de automatizar, y eso tambien hace que los tiempo por caso sean menores, agilizando la ejecución de pruebas.
+Al usar la framework Karate, no surgieron mayores problemas debido a su simpleza. Yo personalmente, recomendaría este framework a casi cualquier proyecto que requiera automatización de Api.g
