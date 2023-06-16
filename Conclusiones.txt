@@ -1,0 +1,3 @@
+En este ejercicio se utilizó Screenplay como patrón de diseño para el desarrollo de las pruebas, usé gherkin para el manejo de caso y gradle para el manejo de dependencias.
+Los únicos inconvenientes que se presentaron fue la inestabilidad de la página
+Personalmente, siento que Screenplay es un patrón de diseño fácil de aprender y que nos da mucha posibilidad de reutilizar código. 
